@@ -1,0 +1,9 @@
+body {background-color: rgb(189, 181, 68);}
+body {background-image:url(new.jpg);}
+#me img{border-radius: 50%;}
+#me img{ display: block; margin-left: auto; margin-right: auto; width: 40%;}
+.you {background-color: rgb(142, 165, 42); text-align: center;text-shadow: 2px 2px; color: rgb(27, 27, 36);}
+.them img{display: block;margin-left: auto;margin-right: auto; width: 20%;} 
+.them {text-align: center; color: black;font-family: Georgia, 'Times New Roman', Times, serif;font-size:larger;}
+.they {text-align: center; color: rgb(124, 75, 16); font-family: cursive; font-size: large;}
+#we {text-align: center; font-family: fantasy; font-size: xx-large; }
